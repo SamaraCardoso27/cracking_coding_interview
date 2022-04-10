@@ -10,7 +10,7 @@ public class Palindrome {
             i++;
             j--;
         }
-        return truex`;
+        return true;
     }
 
     public static void main(String[] args) {
